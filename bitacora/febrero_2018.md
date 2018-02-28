@@ -1,5 +1,13 @@
 # Bitácora de clases febrero
 
+## 28 de febrero
+### Temas
+- Película [Apps The Human Story](http://appdocumentary.com)
+- Temas: Economía de las Apps, desarrollo, forma en que las apps han cambiado nuestras vidas
+
+### Tarea
+- Entregar un reporte de la película a mano dos cuartillas el lunes 5 de marzo 2018 (no olvidar poner datos de carátula y firmar), con las características solicitadas en el pdf que está en la carpeta de presentaciones de éste repositorio.  
+
 ## 26 de febrero
 ### Temas
 - Variables, constantes, operadores lógicos. Control de flujo if-else y switch
@@ -48,7 +56,7 @@ else {
 ```
 
 ### Tarea
-- Mandar un correo por equipo con la liga de un documento en pages en iCloud, dónde se está recopilando la información de la infografía.
+- Repasar lo visto en clase, seguir enriqueciendo y  acomodando su documento de infografía
 
 ## 21 de febrero
 ### Temas
