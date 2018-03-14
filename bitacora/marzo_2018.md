@@ -12,6 +12,7 @@
   - ¿Qué son?
   - ¿Para qué sirven?
   - Principales diferencias y coincidencias
+  - Un ejemplo de uso de cada uno de los conceptos
 - Terminar de acomodar la información de la infografía
 
 ## 12 de marzo
@@ -23,8 +24,6 @@
 
 ### Tarea
 - Para el miércoles 14 de marzo revisar los comentarios en el trabajo de la infografía y complementar y corrgir la información flatante.  
-
-
 
 ## 7 de marzo
 ### Temas
