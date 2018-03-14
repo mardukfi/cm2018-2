@@ -1,4 +1,30 @@
-# Bitácora de clases febrero
+# Bitácora de clases marzo
+
+## 14 de marzo
+### Temas
+- Refuerzo del panorama general de cómputo móvil y los temas y enfoque a considerar en el trabajo de la infografía
+
+### Actividades
+- Se discutieron los conceptos importantes del cómputo móvil.
+
+### Tarea
+- Para el lunes 19 de marzo antes del horario de clase. Enviar por correo: Investigación sobre Swift: Estructuras, Clases y Enumeradores.
+  - ¿Qué son?
+  - ¿Para qué sirven?
+  - Principales diferencias y coincidencias
+- Terminar de acomodar la información de la infografía
+
+## 12 de marzo
+### Temas
+- Swift funciones
+
+### Actividades
+- Se dieron ejemplos sobre el uso de funciones
+
+### Tarea
+- Para el miércoles 14 de marzo revisar los comentarios en el trabajo de la infografía y complementar y corrgir la información flatante.  
+
+
 
 ## 7 de marzo
 ### Temas
