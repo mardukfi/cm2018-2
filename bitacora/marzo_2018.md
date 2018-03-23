@@ -1,5 +1,33 @@
 # Bitácora de clases marzo
 
+## 21 de marzo
+### Temas
+- Estructuras swift
+ - Sintaxis
+  - Instancias
+  - Inicializadores
+   - Valores default
+   - Memberwise initializer
+   - Custom initializer
+  - Instancia de métodos
+  - Mutating methods
+  - Computed properties
+  - Property observers
+  - Type properties and methods
+  - Copiar una estructura
+  - Cambiar valores (propiedades)
+  - Usar métodos
+
+
+### Actividades
+- Se presentaron las funcionalidades y características de las estructuras
+
+### Tarea
+- Preparar la infografía, traerla impresa en tamaño carta a color para entregar (con los datos de la asignatura y participantes del equipo al pie de la página).
+- Preparar una presentación de 5 minutos de la infografía, para presentarla en equipo.
+- Estudiar para primer examen parcial, se aplicará el lunes 2 de abril regresando.
+
+
 ## 14 de marzo
 ### Temas
 - Refuerzo del panorama general de cómputo móvil y los temas y enfoque a considerar en el trabajo de la infografía
