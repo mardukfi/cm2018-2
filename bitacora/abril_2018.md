@@ -4,7 +4,6 @@
 ### Temas
 - Opcionales
 - Guard
-- Ciclo de vida de Views
 ### Tarea
 - Prepara un reporte sobre React Native en desarrollo de aplicaciones móviles. (2 cuartillas máximo, por escrito entregar el 7 de mayo)
 - Contestar al menos en el reporte las siguientes preguntas:
@@ -19,7 +18,7 @@
    - [Artículo compatativo Swift vs React](https://medium.com/the-react-native-log/comparing-the-performance-between-native-ios-swift-and-react-native-7b5490d363e2)
    - [React VS Xamarin](https://www.redbytes.in/react-native-vs-xamarin/)
    - [Por qué considerar React?](https://www.xongolab.com/blog/why-you-should-consider-react-native-for-your-mobile-app/)
-- De tu aplicación hacer el  wireframe (esquema de pantallas y navegación) Mandar por correo en pdf o imagen de buena resolución para ver detalle de pantallas (Entrega 9 de mayo)
+- De tu aplicación hacer el  wireframe (esquema de pantallas y navegación) Mandar por correo en pdf o imagen de buena resolución para ver detalle de pantallas (Entrega 9 de mayo) (Ver presentación en repo)
 
 
 ## 25 de abril
